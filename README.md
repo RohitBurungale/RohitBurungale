@@ -199,7 +199,7 @@ Motto : Learn. Build. Share. Grow.
   <a href="https://www.linkedin.com/in/rohitburungale/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
   <a href="https://github.com/RohitBurungale" target="_blank" title="GitHub"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
   <a href="https://www.instagram.com/im_rohit_5041/" target="_blank" title="Instagram"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
-  <a href="https://twitter.com/ShreyashPatil80" target="_blank" title="Twitter"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter"></a>
+  <a href="https://twitter.com/rohitburungale" target="_blank" title="Twitter"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter"></a>
   <a href="mailto:rohitburungale5041@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
   <!-- <a href="https://github.com/Shreyash-SP80/my-portfolio/blob/main/public/Resume/Shreyash%20Resume%20updated.pdf" target="_blank" title="Resume"><img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="Resume"></a> -->
 </div>
