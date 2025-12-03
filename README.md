@@ -19,13 +19,13 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Shreyash-SP80">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=278997&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Shreyash+Patil;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=278997&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Rohit+Burungale;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
   </a>
 </p>
 
 <!-- Profile views counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shreyash-SP80&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RohitBurungale&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 <!-- F700FF -->
@@ -56,7 +56,7 @@ Motto : Learn. Build. Share. Grow.
 
 ## ⚡ Tech Identity
 
-**NAME** : Shreyash Patil  
+**NAME** : Rohit Burungale  
 **ROLE** : Final Year Student | C++ & Full-Stack Developer  
 **FOCUS** : Data Structures & Algorithms + MERN Stack + Full Stack Java  
 **EXPLORING** : AI Agents | Data Science | Problem-Solving | Aptitude  
@@ -99,9 +99,9 @@ Motto : Learn. Build. Share. Grow.
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-SP80&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitBurungale&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
   <img src="./assets/videos/Legend.gif" alt="Zenstu" height="200" width="300">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-SP80&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitBurungale&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 
@@ -196,18 +196,18 @@ Motto : Learn. Build. Share. Grow.
 -->
 ## 🧠 Developer Links
 <div align="left">
-  <a href="https://www.linkedin.com/in/shreyash-patil-sp7213/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
-  <a href="https://github.com/Shreyash-SP80" target="_blank" title="GitHub"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
-  <a href="https://www.instagram.com/patilshreyash638/" target="_blank" title="Instagram"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/rohitburungale/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
+  <a href="https://github.com/RohitBurungale" target="_blank" title="GitHub"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+  <a href="https://www.instagram.com/im_rohit_5041/" target="_blank" title="Instagram"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
   <a href="https://twitter.com/ShreyashPatil80" target="_blank" title="Twitter"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter"></a>
-  <a href="mailto:shreyashpatil8078@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
-  <a href="https://github.com/Shreyash-SP80/my-portfolio/blob/main/public/Resume/Shreyash%20Resume%20updated.pdf" target="_blank" title="Resume"><img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="Resume"></a>
+  <a href="mailto:rohitburungale5041@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
+  <!-- <a href="https://github.com/Shreyash-SP80/my-portfolio/blob/main/public/Resume/Shreyash%20Resume%20updated.pdf" target="_blank" title="Resume"><img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="Resume"></a> -->
 </div>
 
 
 ---
 **Liked what you see?**  
-Follow me on [GitHub](https://github.com/Shreyash-SP80) and ⭐⭐⭐⭐ star the repositories you like!  
+Follow me on [GitHub](https://github.com/RohitBurungale) and ⭐⭐⭐⭐ star the repositories you like!  
 
 Your support keeps me motivated to create more awesome projects 🚀
 
