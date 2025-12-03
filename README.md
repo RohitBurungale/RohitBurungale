@@ -1,16 +1,219 @@
-## Hi there 👋
+<!-- Banner 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1D2671&height=180&section=header&text=🚀%20Shreyash%20Patil%20|%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p> 
+
+<img src="./assets/videos/Zenstu.gif"
+     alt="Zenstu"
+     style="width:100vw; max-height:30vh; height:auto; object-fit:contain;" />
 
 
-**RohitBurungale/RohitBurungale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/videos/Zenstu.gif" alt="Zenstu" width="1200" height="300">
+<img src="./assets/videos/geo2.gif" alt="Zenstu" width="1200" height="300">
+<img src="./assets/videos/Zenstu2.gif" alt="Zenstu" width="1200" height="300">
+-->
 
-Here are some ideas to get you started:
+<img src="./assets/videos/char.gif" alt="Zenstu" width="1200" height="250">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/Shreyash-SP80">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=278997&center=true&vCenter=true&width=600&lines=>+Hi+There!+👋;I'm+Shreyash+Patil;>+A+Developer+from+India;I+Love+Coding+and+Problem+Solving;>+Let's+Build+Something+Awesome!">
+  </a>
+</p>
+
+<!-- Profile views counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Shreyash-SP80&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+<!-- F700FF -->
+
+
+
+<!--
+## ⚡ Tech Identity
+```
+Name : Shreyash Patil
+Role : Final Year Student | C++ & Full-Stack Developer
+Focus : Data Structures & Algorithms + MERN Stack + Full Stack Java
+Exploring: AI Agents | Data Science | Problem-Solving | Aptitude
+Vision : Build impactful projects while mastering core CS concepts
+Motto : Learn. Build. Share. Grow.
+```
+<div align="center">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200"/>
+</div>
+
+
+
+## ⚡ Tech Identity
+| **Name** : Shreyash Patil  <br> **Role** : Final Year Student &#124; C++ & Full-Stack Developer <br> **Focus** : Data Structures & Algorithms + MERN Stack + Full Stack Java  <br> **Exploring** : AI Agents &#124; Data Science &#124; Problem-Solving &#124; Aptitude <br> **Vision** : Build impactful projects while mastering core CS concepts <br> **Motto** : Learn. Build. Share. Grow. | <img src="./assets/videos/geo2.gif" width="300" height="200"/> |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+-->
+
+
+## ⚡ Tech Identity
+
+**NAME** : Shreyash Patil  
+**ROLE** : Final Year Student | C++ & Full-Stack Developer  
+**FOCUS** : Data Structures & Algorithms + MERN Stack + Full Stack Java  
+**EXPLORING** : AI Agents | Data Science | Problem-Solving | Aptitude  
+**VISION** : Build impactful projects while mastering core CS concepts  
+**MOTTO** : Learn. Build. Share. Grow.
+
+
+## 🛠️ Tech Stack
+
+ <p align="center">
+  <!-- First Row -->
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+</p>
+
+<p align="center">
+  <!-- Second Row -->
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/kali-linux.png" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postman,docker" height="48"/>
+</p>
+
+
+## 📊 GitHub Stats & Streak
+<!-- theme=chartreuse-dark -->
+<!-- radical -->
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-SP80&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-SP80&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
+  <img src="./assets/videos/Legend.gif" alt="Zenstu" height="200" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-SP80&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+
+<!--
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/Shreyash-SP80/Collage-ResultManagement-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=Collage-ResultManagement-System&theme=tokyonight"/>
+  </a> <br/>
+  <a href="https://github.com/Shreyash-SP80/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-SP80&repo=my-portfolio&theme=tokyonight"/>
+  </a>
+</p>
+-->
+<!--
+---
+
+---
+<!-- Animated connection links with working icons -->
+
+
+<!--
+<p align="center">
+  <a href="https://linkedin.com/in/shreyash-patil-sp7213" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/ShreyashPatil80" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="mailto:shreyashpatil8078@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shreyash-SP80" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/patilshreyash638" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" alt="Instagram"/>
+  </a>
+</p>
+-->
+
+
+
+
+<!-- Connection animation 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=500&lines=Welcome+to+my+world+of+code+and+creativity!;Together+we+can+build+solutions+that+matter!;Let's+connect+and+make+magic+happen!✨" alt="Typing animation" />
+</p>
+-->
+
+<!-- Network animation
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Connection animation" />
+</p> -->
+
+<!-- ### 🌀 Flow of Code -->
+<!-- Snake Animation (Dark mode) -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
+
+<!--
+# > <code align="left">⠀Activity⠀</code>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyash-Sp80&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/Shreyash-Sp80)
+</div>
+
+---
+
+## 🎯 Developer Wisdom
+
+<p align="center">
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes" target="_blank">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=default&quoteCategory=programming" alt="Developer wisdom quote" />
+  </a>
+</p>
+-->
+
+
+<!-- Footer Banner -->
+<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:FF5733&height=120&section=footer"/>
+</p>
+-->
+## 🧠 Developer Links
+<div align="left">
+  <a href="https://www.linkedin.com/in/shreyash-patil-sp7213/" target="_blank" title="LinkedIn"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
+  <a href="https://github.com/Shreyash-SP80" target="_blank" title="GitHub"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+  <a href="https://www.instagram.com/patilshreyash638/" target="_blank" title="Instagram"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
+  <a href="https://twitter.com/ShreyashPatil80" target="_blank" title="Twitter"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter"></a>
+  <a href="mailto:shreyashpatil8078@gmail.com" target="_blank" title="Gmail"><img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
+  <a href="https://github.com/Shreyash-SP80/my-portfolio/blob/main/public/Resume/Shreyash%20Resume%20updated.pdf" target="_blank" title="Resume"><img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="Resume"></a>
+</div>
+
+
+---
+**Liked what you see?**  
+Follow me on [GitHub](https://github.com/Shreyash-SP80) and ⭐⭐⭐⭐ star the repositories you like!  
+
+Your support keeps me motivated to create more awesome projects 🚀
+
+
+<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:215e73,50:278998,100:1a4e62&height=120&section=footer"/>
+</p>
+-->
